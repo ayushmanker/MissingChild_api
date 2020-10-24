@@ -27,6 +27,8 @@ npm run dev
 #Run in prod mode
 npm start
 ```
+#To see the routes 
+Open index.html in chrome
 
 - Version: 1.0.0
 
