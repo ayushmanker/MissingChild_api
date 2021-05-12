@@ -1,5 +1,6 @@
 # mchild_api
 backend api for mchild project
+This project is for finding the missing children 
 
 > Backend API for MissingChild application
 
@@ -28,7 +29,8 @@ npm run dev
 npm start
 ```
 #To see the routes 
-Open index.html in chrome
+Open Route.html in chrome
 
 - Version: 1.0.0
+
 
