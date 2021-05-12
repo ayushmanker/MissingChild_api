@@ -29,7 +29,7 @@ npm run dev
 npm start
 ```
 # To see the routes 
-Open Route.html in chrome
+Download Route.html and open it in chrome
 
 - Version: 1.0.0
 
